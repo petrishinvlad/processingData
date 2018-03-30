@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{99DDE922-26B8-45F6-9776-7310255F16BA}") = "processingDataFramework", "processingDataFramework.sfproj", "{54F0B612-48FC-42C5-9145-D50506CC6EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F0B612-48FC-42C5-9145-D50506CC6EF1}.Debug|x86.ActiveCfg = Debug|x86
+		{54F0B612-48FC-42C5-9145-D50506CC6EF1}.Debug|x86.Build.0 = Debug|x86
+		{54F0B612-48FC-42C5-9145-D50506CC6EF1}.Release|x86.ActiveCfg = Debug|x86
+		{54F0B612-48FC-42C5-9145-D50506CC6EF1}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+EndGlobal

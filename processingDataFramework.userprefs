@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2B0D9EF3-A1AE-44FD-A081-6944E6159F34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/aura/testApp/testApp.app">
+    <Files>
+      <File FileName="src/aura/ProcessingData/ProcessingData.cmp" Line="1" Column="1" />
+      <File FileName="src/aura/testApp/testApp.app" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="processingDataFramework" expanded="True">
+            <Node name="processingDataFramework" expanded="True">
+              <Node name="aura" expanded="True">
+                <Node name="ProcessingData" expanded="True" />
+                <Node name="testApp" expanded="True">
+                  <Node name="testApp.app" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.processingDataFramework PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
